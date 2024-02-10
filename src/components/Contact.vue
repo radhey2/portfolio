@@ -21,7 +21,7 @@
               ></v-avatar>
               <v-col>
                 <h3 class="mt-5">Location</h3>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>A108 Adam Street, New York, NY 313332</p>
               </v-col>
             </v-row>
             <v-row>
@@ -43,7 +43,7 @@
               ></v-avatar>
               <v-col>
                 <h3 class="mt-5">Phone</h3>
-                <p>+919829340270</p>
+                <p>+919468588062</p>
               </v-col>
             </v-row>
           </v-col>

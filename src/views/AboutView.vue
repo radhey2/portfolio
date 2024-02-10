@@ -17,7 +17,7 @@
         ></v-img>
       </v-col>
       <v-col>
-        <h1>UI/UX Designer & Web Developer.</h1>
+        <h1>FullStack Developer</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -44,7 +44,10 @@
                   <v-icon>mdi-chevron-right</v-icon>
                 </v-col>
                 <v-col cols="">
-                  <span><b>Website:</b> www.example.com</span>
+                  <span
+                    ><b>Website:</b>
+                    https://radheyportfolio.netlify.app/#/</span
+                  >
                 </v-col>
                 <v-col cols="1">
                   <v-icon>mdi-chevron-right</v-icon>
@@ -58,13 +61,13 @@
                   <v-icon>mdi-chevron-right</v-icon>
                 </v-col>
                 <v-col cols="">
-                  <span><b>Phone:</b> +123 456 7890</span>
+                  <span><b>Phone:</b> +91 9468588062</span>
                 </v-col>
                 <v-col cols="1">
                   <v-icon>mdi-chevron-right</v-icon>
                 </v-col>
                 <v-col cols="">
-                  <span><b>PhEmailone:</b> email@example.com</span>
+                  <span><b>Email:</b> radheshyamb9@gmail.com</span>
                 </v-col>
               </v-row>
               <v-row align="center">
@@ -123,9 +126,9 @@
           ></v-progress-linear>
         </v-col>
         <v-col cols="5"
-          ><h5>PHP</h5>
+          ><h5>java</h5>
           <v-progress-linear
-            model-value="80"
+            model-value="90"
             :height="8"
             color="blue-lighten-2"
           ></v-progress-linear>
@@ -141,9 +144,9 @@
           ></v-progress-linear>
         </v-col>
         <v-col cols="5"
-          ><h5>CMS/WORDPRESS</h5>
+          ><h5>Vuejs</h5>
           <v-progress-linear
-            model-value="90"
+            model-value="70"
             :height="8"
             color="blue-lighten-2"
           ></v-progress-linear>
@@ -159,7 +162,7 @@
           ></v-progress-linear>
         </v-col>
         <v-col cols="5"
-          ><h5>PHOTOSHOP</h5>
+          ><h5>mysql</h5>
           <v-progress-linear
             model-value="55"
             :height="8"

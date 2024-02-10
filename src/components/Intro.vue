@@ -33,7 +33,7 @@ export default {
 
   data() {
     return {
-      name: "Alex Smith",
+      name: " Radhey",
       dynamicText: "Initial Text",
     };
   },

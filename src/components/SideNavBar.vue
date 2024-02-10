@@ -30,7 +30,7 @@
             class="font-weight-black text-h5 text-color-white"
             style="text-align: center"
           >
-            Alex Smith
+            Radheshyam Bagwan
           </p>
         </v-list-item>
         <v-list-item>
